@@ -1,0 +1,12 @@
+先运行：EurekaServerApplication
+再运行：ConfigServerApplication
+其余的：AccountApplication
+       ClientApplication
+       MenuApplication
+       OrderApplication
+       UserApplication
+顺序随便。
+
+进入的网址：http://localhost:8030/login.html
+
+

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c989c65-e64b-40c6-9c4d-29bc6b6f6629" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JetBrains\maven_repository" />
+        <option name="mavenHome" value="D:\Program Files\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1ZHGAWzjpeWOnrGIEXdFPW7Xylq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24973986" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.htl.repository" />
+      <recent name="com.htl.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\IDEA_project\OrderingSystem\数据库sql" />
+      <recent name="D:\Project\IDEA_project\OrderingSystem\order\src\main\resources\mapping" />
+      <recent name="D:\Project\IDEA_project\OrderingSystem\client\src\main\resources\static" />
+      <recent name="D:\Project\IDEA_project\OrderingSystem\client\src\main\java\com\htl\filter" />
+      <recent name="D:\Project\IDEA_project\OrderingSystem\order\src\main\java\com\htl\entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration name="AccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="account" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htl.AccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htl.ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="configserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htl.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eurekaserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htl.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="menu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htl.MenuApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htl.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htl.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c989c65-e64b-40c6-9c4d-29bc6b6f6629" name="Default Changelist" comment="" />
+      <created>1584488462052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584488462052</updated>
+      <workItem from="1584488463387" duration="352000" />
+      <workItem from="1584488843608" duration="5780000" />
+      <workItem from="1584513595102" duration="5349000" />
+      <workItem from="1584522968021" duration="3588000" />
+      <workItem from="1584526607947" duration="4023000" />
+      <workItem from="1584530881842" duration="226000" />
+      <workItem from="1584531111873" duration="63000" />
+      <workItem from="1584531254481" duration="1335000" />
+      <workItem from="1584532776549" duration="431000" />
+      <workItem from="1584578095149" duration="3300000" />
+      <workItem from="1584751652166" duration="11283000" />
+      <workItem from="1584780689971" duration="3474000" />
+      <workItem from="1584784220666" duration="10922000" />
+      <workItem from="1584833668639" duration="17279000" />
+      <workItem from="1584869142767" duration="546000" />
+      <workItem from="1584877969746" duration="10251000" />
+      <workItem from="1584927697745" duration="1400000" />
+      <workItem from="1585092238666" duration="309000" />
+      <workItem from="1585475725600" duration="285000" />
+      <workItem from="1585721844417" duration="246000" />
+      <workItem from="1585911592421" duration="43000" />
+      <workItem from="1585914478728" duration="772000" />
+      <workItem from="1585922724285" duration="290000" />
+      <workItem from="1586008205575" duration="40000" />
+      <workItem from="1586085409620" duration="33000" />
+      <workItem from="1586085516469" duration="5000" />
+      <workItem from="1586490601505" duration="254000" />
+      <workItem from="1586497975310" duration="44000" />
+      <workItem from="1586498223372" duration="15000" />
+      <workItem from="1586500492830" duration="76000" />
+      <workItem from="1586500571388" duration="257000" />
+      <workItem from="1586564245657" duration="246000" />
+      <workItem from="1586597685974" duration="32000" />
+      <workItem from="1586601714768" duration="34000" />
+      <workItem from="1586733862783" duration="34000" />
+      <workItem from="1586786721994" duration="50000" />
+      <workItem from="1586864837845" duration="397000" />
+      <workItem from="1586906998478" duration="90000" />
+      <workItem from="1587191314279" duration="202000" />
+      <workItem from="1589552964491" duration="80000" />
+      <workItem from="1598248813533" duration="1430000" />
+      <workItem from="1598250248350" duration="110000" />
+      <workItem from="1598347621539" duration="65000" />
+      <workItem from="1599368496091" duration="23000" />
+      <workItem from="1599652075458" duration="46000" />
+      <workItem from="1602809201125" duration="1828000" />
+      <workItem from="1602811046641" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="114" y="63" width="1230" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598347645650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="114" y="63" width="1230" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1598347645650" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1602810405068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602810405068" />
+    <state width="1168" height="441" key="GridCell.Tab.0.bottom" timestamp="1602811043530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1168" height="441" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602811043530" />
+    <state width="1168" height="441" key="GridCell.Tab.0.center" timestamp="1602811043530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1168" height="441" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602811043530" />
+    <state width="1168" height="441" key="GridCell.Tab.0.left" timestamp="1602811043530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1168" height="441" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602811043530" />
+    <state width="1168" height="441" key="GridCell.Tab.0.right" timestamp="1602811043530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1168" height="441" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602811043530" />
+    <state width="1168" height="441" key="GridCell.Tab.1.bottom" timestamp="1602811043530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1168" height="441" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602811043530" />
+    <state width="1168" height="441" key="GridCell.Tab.1.center" timestamp="1602811043530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1168" height="441" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602811043530" />
+    <state width="1168" height="441" key="GridCell.Tab.1.left" timestamp="1602811043530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1168" height="441" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602811043530" />
+    <state width="1168" height="441" key="GridCell.Tab.1.right" timestamp="1602811043530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1168" height="441" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602811043530" />
+  </component>
+</project>
